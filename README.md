@@ -1,27 +1,35 @@
-# SistemaLivros
+# DIO - Teste Curso: Dominando IDEs Java (IntelliJ) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+> **Breve descrição:**  
+> Testes e exemplos realizados no curso de domínio da IDE IntelliJ para Java, pela Digital Innovation One (DIO).
 
-## Development server
+## 🚀 Tecnologias
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
-## Code scaffolding
+## 📚 Observação
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Repositório criado para acompanhamento das atividades do curso da **DIO** sobre IDEs Java.
 
-## Build
+## ⚙️ Como executar
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Abra o projeto na IDE IntelliJ e execute os exemplos conforme instruções internas.
 
-## Running unit tests
+## 📄 Status
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+> ✅ Finalizado
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<p align="center">
+  <a href="https://github.com/mdaniliauskas">
+    <img src="https://img.shields.io/badge/Portfólio%20GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="Portfólio GitHub">
+  </a>
+  <a href="mailto:marcelo.daniliauskas@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+  <a href="https://www.linkedin.com/in/mdaniliauskas">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
